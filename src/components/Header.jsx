@@ -22,6 +22,7 @@ export default function Header() {
         >
           <MenuIcon />
         </IconButton>
+
         <Typography sx={{ flexGrow: 1, ml: 2 }}>Yaycha</Typography>
 
         <Box>

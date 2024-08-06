@@ -1,6 +1,5 @@
 import React from "react";
 import ReactDOM from "react-dom/client";
-import "./index.css";
 import ThemedApp from "./ThemedApp.jsx";
 import "@fontsource/roboto/300.css";
 import "@fontsource/roboto/400.css";
